@@ -1,23 +1,23 @@
 ﻿
 try {
-  string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+  string[] lines = File.ReadAllLines("Archives/readingFile.txt");
 
-  foreach(string linha in linhas)
+  foreach(string line in lines)
   {
-    Console.WriteLine(linha);
+    Console.WriteLine(line);
   }
 } catch(FileNotFoundException ex)
 {
-  Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Arquivo não encontrado. {ex.Message}");
+  Console.WriteLine($"An error occurred while reading the file. File not found. {ex.Message}");
 } catch(DirectoryNotFoundException ex)
 {
-  Console.WriteLine($"Ocorreu um erro na leitura do arquivo. Caminho da pasta não encontrado. "
+  Console.WriteLine($"An error occurred while reading the file. Folder path not found."
    + ex.Message);
 } catch(Exception ex)
 {
-  Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+  Console.WriteLine($"A generic exception occurred. {ex.Message}");
 }
 finally
 {
-  
+  Console.WriteLine("Got this far.");
 }
