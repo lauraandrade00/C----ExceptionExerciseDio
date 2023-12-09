@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.exe
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.deps.json
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.runtimeconfig.json
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.dll
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\bin\Debug\net8.0\ExceptionExercise.pdb
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.AssemblyInfo.cs
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.dll
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\refint\ExceptionExercise.dll
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.pdb
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ExceptionExercise.genruntimeconfig.cache
+C:\Users\Dell\Desktop\DIO - Laura\c#\ExceptionExercise\obj\Debug\net8.0\ref\ExceptionExercise.dll
